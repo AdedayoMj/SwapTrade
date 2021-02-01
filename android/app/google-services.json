@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350084882929",
+    "project_id": "swaptrade-2e285",
+    "storage_bucket": "swaptrade-2e285.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350084882929:android:c5d4eddf284b02c722e450",
+        "android_client_info": {
+          "package_name": "com.example.swap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350084882929-1m36coo325g71vpo1d34agihbjc9mah4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChhsY3ciO-VRSrlPbqCYQO_VTdF6spkpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350084882929-1m36coo325g71vpo1d34agihbjc9mah4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
